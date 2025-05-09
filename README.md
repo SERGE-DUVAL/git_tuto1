@@ -2,7 +2,7 @@
 
 ## initialise un depot
 
-'''' bash
+''''bash
 git init
 git remote add origin ssh
 ''''
