@@ -31,3 +31,5 @@ git push origin main
 ```bash
 git checkout -b nom de la branche
 ```
+
+pour les bonne pratique on vas integrer la notion des revue de code .pour cela on vas creer un brabce ,faire des modification ,les envoye sur les depots distant, puis creer une pull request pour demander un revue de code
