@@ -22,7 +22,7 @@ Descrition de notre commit avec evolution donc les infos
 
 ```bash
 git add
-git commit -m "titre du commit"
+git commit -m "un commentaire"
 git push origin main
 ```
 
