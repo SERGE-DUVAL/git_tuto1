@@ -14,3 +14,11 @@ Titre du commit
 
 descrition de notre commit avec evolution donc les infos
 '''
+
+##envoyer un commit a distance
+
+'''bash
+git add
+git commit -m "titre du commit"
+git push origin main
+'''
