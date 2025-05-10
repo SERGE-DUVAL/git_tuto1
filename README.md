@@ -8,7 +8,7 @@ git remote add origin ssh
 ```
 
 
-## Rediger un commit
+## Rediger un commit bon commit
 
 ```
 Titre du commit
@@ -24,4 +24,10 @@ Descrition de notre commit avec evolution donc les infos
 git add
 git commit -m "titre du commit"
 git push origin main
+```
+
+## Creation d'une branche
+
+```bash
+git checkout -b nom de la branche
 ```
