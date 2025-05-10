@@ -1,9 +1,8 @@
-# documentation des tuto github
+# Documentation des tutos GitHub
 
-## initialise un depot
+## Initialiser un dépôt
 
-'''bash
+```bash
 git init
 git remote add origin ssh
 '''
-#
